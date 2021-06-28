@@ -1,3 +1,7 @@
+# internal action code has moved to https://github.com/marketplace/actions/lnrs-download-workflow-artifact
+
+# this code base will be deleted soon, do not use it for anything, less your stuff may break.
+
 # Download workflow artifact GitHub Action
 
 An action that downloads and extracts uploaded artifact associated with given workflow and commit or other criteria.
